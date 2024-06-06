@@ -74,7 +74,7 @@ function typeText(element, text) {
     }, 200);
 }
 
-const heroTextContent = 'Gia is Love';
+const heroTextContent = 'I Love You MINNI';
 typeText(heroText, heroTextContent);
 
 const fontChangeInterval = setInterval(() => {
